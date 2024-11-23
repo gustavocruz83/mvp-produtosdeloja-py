@@ -1,0 +1,1 @@
+# mvp-produtosdeloja-py
